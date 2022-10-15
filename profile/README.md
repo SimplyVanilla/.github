@@ -27,12 +27,12 @@ that helps us run the server smoothly.
 
 * Ryzen 9
 * Since 2019
-* ~3TB world size
+* ~4TB world size
 * Vanilla borders
 * Nether roof accessible
 * Co-located dead center US
 * Debian Linux / [Amazon Corretto](https://aws.amazon.com/corretto/)
-* Minecraft Java (PaperMC) 1.18.2
+* Minecraft Java (PaperMC) 1.19.2
 
 ## Links
 
