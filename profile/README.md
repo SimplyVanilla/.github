@@ -25,14 +25,14 @@ that helps us run the server smoothly.
 
 ## Server Info
 
-* Ryzen 9
+* Intel 12th Gen
 * Since 2019
-* ~4TB world size
+* ~8 TB world size
 * Vanilla borders
 * Nether roof accessible
-* Co-located dead center US
+* Co-located in Netherlands
 * Debian Linux / [Amazon Corretto](https://aws.amazon.com/corretto/)
-* Minecraft Java (PaperMC) 1.19.2
+* Minecraft Java (Pufferfish+) 1.20.1
 
 ## Links
 
