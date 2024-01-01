@@ -1,4 +1,4 @@
-![Simply Vanilla](https://i.imghut.com/2022/04/21/sv-2022-large.png)
+![Simply Vanilla](https://f.simplyvanilla.net/logos/sv-2022-large.md.png)
 
 [![Minecraft Players Online](https://img.shields.io/endpoint?style=for-the-badge&color=5865F2&url=https%3A%2F%2Fshields.simplyvanilla.net%2Fplayers%2Fsimplyvanilla.net)](https://mcsrvstat.us/server/simplyvanilla.net)
 [![Discord Users Online](https://img.shields.io/discord/583446050929639444?color=5865F2&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/dP7SqPF)
