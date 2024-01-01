@@ -25,14 +25,14 @@ that helps us run the server smoothly.
 
 ## Server Info
 
-* Intel 12th Gen
+* Intel 13th Gen
 * Since 2019
-* ~8 TB world size
+* ~10 TB world size
 * Vanilla borders
 * Nether roof accessible
 * Co-located in Netherlands
 * Debian Linux / [Amazon Corretto](https://aws.amazon.com/corretto/)
-* Minecraft Java (Pufferfish+) 1.20.1
+* Minecraft Java (Pufferfish) 1.20+
 
 ## Links
 
