@@ -1,4 +1,4 @@
-![Simply Vanilla](https://f.simplyvanilla.net/logos/sv-2022-large.md.png)
+![Simply Vanilla](https://f.simplyvanilla.net/banners/2024/simply-vanilla-2024-discord-banner.png)
 
 [![Minecraft Players Online](https://img.shields.io/endpoint?style=for-the-badge&color=5865F2&url=https%3A%2F%2Fshields.simplyvanilla.net%2Fplayers%2Fsimplyvanilla.net)](https://mcsrvstat.us/server/simplyvanilla.net)
 [![Discord Users Online](https://img.shields.io/discord/583446050929639444?color=5865F2&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/dP7SqPF)
@@ -25,14 +25,21 @@ that helps us run the server smoothly.
 
 ## Server Info
 
-* Intel 13th Gen
 * Since 2019
 * ~10 TB world size
 * Vanilla borders
 * Nether roof accessible
 * Co-located in Netherlands
 * Debian Linux / [Amazon Corretto](https://aws.amazon.com/corretto/)
-* Minecraft Java (Pufferfish) 1.20+
+* Minecraft Java ([Folia](https://github.com/PaperMC/Folia)) 1.20+
+
+## Sponsoring
+
+Proud sponsors of:
+
+* [PaperMC](https://opencollective.com/papermc)
+* [Discord Tickets](https://discordtickets.app/#sponsors)
+* [ProtocolLib](https://github.com/sponsors/dmulloy2)
 
 ## Links
 
